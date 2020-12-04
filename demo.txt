@@ -1,2 +1,9 @@
 hello this is my second file
 
+
+def add (x,y):
+	return x + y 
+
+def subtract(x,y)
+	return x - y
+
